@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("Tic Tac Toe")
+root.title("Tic Tac Toe - Two Player Game")
 player=True
 status=None
 count=0
